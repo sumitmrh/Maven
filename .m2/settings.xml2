@@ -1,0 +1,11 @@
+<profiles>
+  <profile>
+    <id>sonarqube</id>
+    <properties>
+      <sonar.projectKey>Jenkins-maven</sonar.projectKey>
+      <sonar.projectName>Jenkins-maven</sonar.name>
+      <sonar.host.url>http://192.168.1.231:9000</sonar.host.url>
+      <sonar.token>sqp_99be4201b86a5540feec20a328038b0734eb77eb</sonar.token>
+    </properties>
+  </profile>
+</profiles>
